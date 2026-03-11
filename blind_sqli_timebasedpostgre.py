@@ -3,9 +3,9 @@ import string
 import time
 
 # ===================== SETTINGS =====================
-URL = "TYPE YOUR URL HERE"
-TRACKING_ID = "TYPE YOUR TRACKING_ID HERE"
-SESSION = "TYPE YOUR SESSION HERE (cookie)"
+URL = ""                           #TYPE YOUR URL HERE
+TRACKING_ID = ""           #TYPE YOUR TRACKING_ID HERE
+SESSION = ""          #TYPE YOUR SESSION HERE (cookie)
 
 REQUESTS_PER_SECOND = 3  # Recommended: 2-5 for time-based
 PASSWORD_LENGTH = 20
